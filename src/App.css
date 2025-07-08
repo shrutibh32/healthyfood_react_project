@@ -1,0 +1,9 @@
+.container{
+  border: 1px solid black;
+  width: 100px; /* increased for better content fit, change as needed */
+  margin: 40px auto; /* center the container vertically and horizontally */
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #fdfdfd; /* optional: light background */
+}

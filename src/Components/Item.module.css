@@ -1,0 +1,14 @@
+li.item{
+  color: orange;
+  height: 50px;
+  background-color: rgb(250, 220, 162);
+  margin: 10px;
+ 
+}
+.kg_item{
+  font-weight: 800;
+}
+.buy{
+  background-color: rgb(12, 155, 211);
+  float: right;
+}
